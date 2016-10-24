@@ -2,17 +2,17 @@
 
 # 0：新コスイベント、1：特訓イベント、2：レイドオブリ協力戦、
 # 3：スクスト人気投票、4：生徒会アンケート、5：ダメージコンテスト
-event_type = 4
+event_type = 2
 
 # 開始日
-start_day = 10
+start_day = 24
 
 # 以下、なかったら nil を入力
 # 第#{event_number}回〜〜
-event_number = 8
+event_number = nil
 
 # サブタイトル
-subtitle = "コスチュームについてのアンケート"
+subtitle = nil
 
 # 「#{collaboration}」とのコラボ
 collaboration = nil
